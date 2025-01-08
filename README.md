@@ -16,6 +16,10 @@
 - Obtendo o endereço da máquina: ``` ifconfig ```
 - URL para clone: http://www.facebook.com
 
-### Resutados
+### Resutados Sem a proteção do Facebook
 
 ![Alt text](./passwd.png "Optional title")
+
+### Contornando a proteção do Facebook
+
+...
