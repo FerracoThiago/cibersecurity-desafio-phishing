@@ -25,6 +25,7 @@ Etapa 8: Inserir URL para clone: http://www.facebook.com
 ### Contornando a proteção do Facebook
 
 Quando a clonagem de site não é bem-sucessida , podemos utilizar outra maneira através do ``` Custom Import ``` oferecida na 6ª etapa do nosso ataque.  
+
 ![Alt text](./Custom_Import.png "Optional title")
 
 Essa opção nos permite, no lugar de uma URL, utilizar um arquivo ``` html ``` da nossa própria máquina para utilização do ataque.  
@@ -52,7 +53,7 @@ Depois disso é necessário anotar o ID.
 
 Para maior eficiência do nosso ataque, podemos melhorar a página que nós salvamos.  
 Ao abrir a página salva, veremos que a página está feia e nada atrativa, o que faz com que o nosso alvo desconfie que seja um site verdadeiro, temos que corrigir isso para aumentar nossas acertividades.  
-O motivo disso acontecer é que ao baixarmos a página, elementos do ``` CSS ``` não são iniciados corretamente, faremos uma cópia do código-fonte original e colaremos dentro do código do nosso arquivo.  
+O motivo disso acontecer é que, ao baixarmos a página, elementos do ``` CSS ``` não são iniciados corretamente, faremos uma cópia do código-fonte original e colaremos dentro do código do nosso arquivo.  
 
 ![Alt text](./Paste.png "Optional title")
 
