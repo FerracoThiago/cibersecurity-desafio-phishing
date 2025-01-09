@@ -20,7 +20,7 @@ Etapa 8: Inserir URL para clone: http://www.facebook.com
 
 ![Alt text](./passwd.png "Optional title")
 
-É importante saber que sites bastantes conhecidos atualmente contém diversas proteções rígidas contra qualquer script que seja malicioso, para isso temos que dar uma volta por cima deles...  
+É importante saber que sites bastante conhecidos atualmente contém diversas proteções rígidas contra qualquer script que seja malicioso, para isso temos que dar uma volta por cima deles...  
 
 ### Contornando a proteção do Facebook
 
